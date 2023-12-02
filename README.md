@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi there! I'm Alex Pervakov, an experienced frontend developer passionate about crafting seamless user interfaces and driving innovation through code. Currently seeking new opportunities in frontend development.
 
-<!--
-**alexpervakov/alexpervakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
+- 💼 Frontend Developer at Code Career Central
+- 📍 Baku City, Azerbaijan
+- 🕒 5 months and counting
+- 🔧 Specialized in ReactJS, TypeScript, JavaScript, HTML5, CSS3
+- 🌟 Proficient in Tailwind CSS, Sass, Less, and Next.js
+- 🛠️ Skills: Next.js, AWS, Amplify, Scrum, Git, JIRA, Tailwind, JavaScript
 
-Here are some ideas to get you started:
+💻 Experience:
+- 🌐 At Code Career Central, played a key role in enhancing user experiences through innovative React components and migration to Next.js. Collaborated extensively with AWS Amplify for seamless deployment and utilized Git and Jira for efficient project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 As an intern at Open Source Community Azerbaijan, contributed to both frontend and backend projects, gaining insights into full-stack development. Worked on intuitive user interfaces and explored backend development using Express.js.
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/alexpervakov/)!
+
