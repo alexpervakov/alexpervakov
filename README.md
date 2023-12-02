@@ -15,3 +15,4 @@
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/alexpervakov/)!
 
+[Resume](https://docs.google.com/document/d/1RF9V7kmInDInraeyW0GHtc32-ksM_ndPO57kDMdnHcE/edit?usp=sharing)
